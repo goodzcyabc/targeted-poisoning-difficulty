@@ -16,14 +16,13 @@ from PIL import Image
 from torch.utils.data import Dataset
 from torchvision import transforms, models
 
-# allow importing results/metrics/metrics_delta_tau.py
+# make metrics/ importable no matter where python is launched from
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 BENCH_ROOT = os.path.dirname(SCRIPT_DIR)
-EXTRA_DIR = os.path.join(BENCH_ROOT, "extra_delta_tau")
-if EXTRA_DIR not in sys.path:
-    sys.path.insert(0, EXTRA_DIR)
+if BENCH_ROOT not in sys.path:
+    sys.path.insert(0, BENCH_ROOT)
 
-from metrics_delta_tau import DeltaTauConfig, compute_delta  # noqa: E402
+from metrics.delta_tau import DeltaTauConfig, compute_delta  # noqa: E402
 
 
 def load_class_order_and_names_from_words(path: str) -> tuple[List[str], Dict[str, str]]:

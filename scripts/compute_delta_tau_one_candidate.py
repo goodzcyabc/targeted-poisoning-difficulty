@@ -17,12 +17,12 @@ from PIL import Image
 from torch.utils.data import Dataset, DataLoader
 from torchvision import transforms, models
 
-# ---- FIX 1: make extra_delta_tau importable no matter where python is launched from ----
+# make metrics/ importable no matter where python is launched from
 BENCH_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 if BENCH_ROOT not in sys.path:
     sys.path.insert(0, BENCH_ROOT)
 
-from extra_delta_tau.metrics_delta_tau import (
+from metrics.delta_tau import (
     DeltaTauConfig,
     compute_delta,
     estimate_gDc_at_wp,

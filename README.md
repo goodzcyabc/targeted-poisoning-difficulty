@@ -1,6 +1,6 @@
 # Are Targeted Data Poisoning Attacks as Effective as We Think?
 
-Anonymous code release accompanying the paper submission.
+Anonymous code release for our SatML 2027 submission.
 
 Existing evaluations of **targeted data poisoning** report the *average* attack success rate (ASR) over
 randomly chosen targets, which hides how much difficulty varies from one target to the next. This repository
