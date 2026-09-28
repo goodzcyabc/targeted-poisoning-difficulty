@@ -1,0 +1,16 @@
+\begin{table}[t]
+\centering
+\begin{tabular}{lrr}
+\toprule
+Top-ranked prefix & \#Samples & Dominant $= y_t$ (\%) \\
+\midrule
+Top 20% & 200 & 99.5 \\
+Top 40% & 400 & 99.2 \\
+Top 60% & 600 & 97.3 \\
+Top 80% & 800 & 95.0 \\
+Top 100% & 1000 & 86.9 \\
+\bottomrule
+\caption{Relationship between DPS ranking and dominant-label consistency on CIFAR-10 for $(y_t, y_p) = (0, 1)$. Samples are sorted by DPS in descending order. For each top-ranked prefix, we report the percentage of samples whose dominant label (excluding $y_p$) equals the true class $y_t$.}
+\label{tab:cifar10_dps_prefix}
+\end{tabular}
+\end{table}

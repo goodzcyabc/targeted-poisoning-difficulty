@@ -1,0 +1,2 @@
+target_tag	target_val_ds_index	yt	target_rel_path	target_epa	candidate_val_ds_index	yp	candidate_rel_path	delta	eta_star	tau	pred_before	pred_after	g_norm
+bottom1	1355	0	val/images/val_1355.JPEG	0.0000000000	6595	144	val/images/val_6595.JPEG	0.0021972656	0.0021972656	0.0140689996	179	144	7.6036973000

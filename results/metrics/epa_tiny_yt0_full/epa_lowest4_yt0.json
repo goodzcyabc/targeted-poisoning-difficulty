@@ -1,0 +1,46 @@
+[
+  {
+    "yt": 0,
+    "yt_wnid": "n01443537",
+    "yt_name": "goldfish, Carassius auratus",
+    "val_ds_index": 9215,
+    "rel_path": "val/images/val_9215.JPEG",
+    "epa": 0.0,
+    "correct": 0,
+    "M": 8,
+    "N": 40
+  },
+  {
+    "yt": 0,
+    "yt_wnid": "n01443537",
+    "yt_name": "goldfish, Carassius auratus",
+    "val_ds_index": 4653,
+    "rel_path": "val/images/val_4653.JPEG",
+    "epa": 0.003125,
+    "correct": 1,
+    "M": 8,
+    "N": 40
+  },
+  {
+    "yt": 0,
+    "yt_wnid": "n01443537",
+    "yt_name": "goldfish, Carassius auratus",
+    "val_ds_index": 4890,
+    "rel_path": "val/images/val_4890.JPEG",
+    "epa": 0.003125,
+    "correct": 1,
+    "M": 8,
+    "N": 40
+  },
+  {
+    "yt": 0,
+    "yt_wnid": "n01443537",
+    "yt_name": "goldfish, Carassius auratus",
+    "val_ds_index": 5967,
+    "rel_path": "val/images/val_5967.JPEG",
+    "epa": 0.003125,
+    "correct": 1,
+    "M": 8,
+    "N": 40
+  }
+]

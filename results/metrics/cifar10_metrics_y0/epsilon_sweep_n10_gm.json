@@ -1,0 +1,72 @@
+[
+  {
+    "group": "high",
+    "epsilon": 0.05,
+    "num": 10,
+    "mean_asr": 0.725,
+    "std_asr": 0.37831864876053894
+  },
+  {
+    "group": "high",
+    "epsilon": 0.03,
+    "num": 10,
+    "mean_asr": 0.7125,
+    "std_asr": 0.41476650057592646
+  },
+  {
+    "group": "high",
+    "epsilon": 0.02,
+    "num": 10,
+    "mean_asr": 0.775,
+    "std_asr": 0.30516389039334263
+  },
+  {
+    "group": "high",
+    "epsilon": 0.015,
+    "num": 10,
+    "mean_asr": 0.7,
+    "std_asr": 0.4115519408288582
+  },
+  {
+    "group": "high",
+    "epsilon": 0.01,
+    "num": 10,
+    "mean_asr": 0.6375,
+    "std_asr": 0.4417649261768073
+  },
+  {
+    "group": "low",
+    "epsilon": 0.001,
+    "num": 10,
+    "mean_asr": 0.7,
+    "std_asr": 0.33166247903554
+  },
+  {
+    "group": "low",
+    "epsilon": 0.0025,
+    "num": 10,
+    "mean_asr": 0.975,
+    "std_asr": 0.049999999999999996
+  },
+  {
+    "group": "low",
+    "epsilon": 0.005,
+    "num": 10,
+    "mean_asr": 0.975,
+    "std_asr": 0.075
+  },
+  {
+    "group": "low",
+    "epsilon": 0.0075,
+    "num": 10,
+    "mean_asr": 0.95,
+    "std_asr": 0.15
+  },
+  {
+    "group": "low",
+    "epsilon": 0.01,
+    "num": 10,
+    "mean_asr": 1.0,
+    "std_asr": 0.0
+  }
+]

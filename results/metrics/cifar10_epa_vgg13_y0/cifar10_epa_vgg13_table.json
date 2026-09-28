@@ -1,0 +1,110 @@
+[
+  {
+    "group": "high",
+    "yp": 1,
+    "method": "GM",
+    "num_samples": 4,
+    "mean_asr": 0.09375,
+    "std_asr": 0.10364452469860624,
+    "display": "0.094 $\\pm$ 0.104"
+  },
+  {
+    "group": "high",
+    "yp": 1,
+    "method": "BP",
+    "num_samples": 4,
+    "mean_asr": 0.0,
+    "std_asr": 0.0,
+    "display": "0.000 $\\pm$ 0.000"
+  },
+  {
+    "group": "high",
+    "yp": 2,
+    "method": "GM",
+    "num_samples": 4,
+    "mean_asr": 0.21875,
+    "std_asr": 0.2557922741210141,
+    "display": "0.219 $\\pm$ 0.256"
+  },
+  {
+    "group": "high",
+    "yp": 2,
+    "method": "BP",
+    "num_samples": 4,
+    "mean_asr": 0.0,
+    "std_asr": 0.0,
+    "display": "0.000 $\\pm$ 0.000"
+  },
+  {
+    "group": "middle",
+    "yp": 1,
+    "method": "GM",
+    "num_samples": 4,
+    "mean_asr": 0.96875,
+    "std_asr": 0.05412658773652741,
+    "display": "0.969 $\\pm$ 0.054"
+  },
+  {
+    "group": "middle",
+    "yp": 1,
+    "method": "BP",
+    "num_samples": 4,
+    "mean_asr": 0.03125,
+    "std_asr": 0.05412658773652741,
+    "display": "0.031 $\\pm$ 0.054"
+  },
+  {
+    "group": "middle",
+    "yp": 2,
+    "method": "GM",
+    "num_samples": 4,
+    "mean_asr": 0.78125,
+    "std_asr": 0.3788861141556919,
+    "display": "0.781 $\\pm$ 0.379"
+  },
+  {
+    "group": "middle",
+    "yp": 2,
+    "method": "BP",
+    "num_samples": 4,
+    "mean_asr": 0.0,
+    "std_asr": 0.0,
+    "display": "0.000 $\\pm$ 0.000"
+  },
+  {
+    "group": "low",
+    "yp": 1,
+    "method": "GM",
+    "num_samples": 4,
+    "mean_asr": 1.0,
+    "std_asr": 0.0,
+    "display": "1.000 $\\pm$ 0.000"
+  },
+  {
+    "group": "low",
+    "yp": 1,
+    "method": "BP",
+    "num_samples": 4,
+    "mean_asr": 0.6875,
+    "std_asr": 0.40019526483955303,
+    "display": "0.688 $\\pm$ 0.400"
+  },
+  {
+    "group": "low",
+    "yp": 2,
+    "method": "GM",
+    "num_samples": 4,
+    "mean_asr": 1.0,
+    "std_asr": 0.0,
+    "display": "1.000 $\\pm$ 0.000"
+  },
+  {
+    "group": "low",
+    "yp": 2,
+    "method": "BP",
+    "num_samples": 4,
+    "mean_asr": 0.65625,
+    "std_asr": 0.3890593624371479,
+    "display": "0.656 $\\pm$ 0.389"
+  }
+]

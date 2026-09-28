@@ -1,0 +1,29 @@
+{
+  "bottom1": {
+    "yt": 0,
+    "val_ds_index": 1355,
+    "rel_path": "val/images/val_1355.JPEG",
+    "epa": 0.0,
+    "correct": 0,
+    "M": 8,
+    "N": 40
+  },
+  "middle1": {
+    "yt": 0,
+    "val_ds_index": 826,
+    "rel_path": "val/images/val_826.JPEG",
+    "epa": 0.078125,
+    "correct": 25,
+    "M": 8,
+    "N": 40
+  },
+  "top1": {
+    "yt": 0,
+    "val_ds_index": 4823,
+    "rel_path": "val/images/val_4823.JPEG",
+    "epa": 0.75,
+    "correct": 240,
+    "M": 8,
+    "N": 40
+  }
+}

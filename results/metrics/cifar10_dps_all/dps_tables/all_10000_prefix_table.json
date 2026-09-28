@@ -1,0 +1,32 @@
+[
+  {
+    "prefix": "Top 20%",
+    "num_samples": 2000,
+    "num_dominant_eq_yt": 1991,
+    "proportion": 0.9955
+  },
+  {
+    "prefix": "Top 40%",
+    "num_samples": 4000,
+    "num_dominant_eq_yt": 3927,
+    "proportion": 0.98175
+  },
+  {
+    "prefix": "Top 60%",
+    "num_samples": 6000,
+    "num_dominant_eq_yt": 5705,
+    "proportion": 0.9508333333333333
+  },
+  {
+    "prefix": "Top 80%",
+    "num_samples": 8000,
+    "num_dominant_eq_yt": 7113,
+    "proportion": 0.889125
+  },
+  {
+    "prefix": "Top 100%",
+    "num_samples": 10000,
+    "num_dominant_eq_yt": 8024,
+    "proportion": 0.8024
+  }
+]

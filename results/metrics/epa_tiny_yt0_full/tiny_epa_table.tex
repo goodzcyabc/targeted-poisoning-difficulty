@@ -1,0 +1,16 @@
+\begin{table}[t]
+\centering
+\begin{tabular}{lcccc}
+\toprule
+$x_t$ & \multicolumn{2}{c}{$y_p=1$} & \multicolumn{2}{c}{$y_p=2$} \\
+\cmidrule(lr){2-3} \cmidrule(lr){4-5}
+ & GM & BP & GM & BP \\
+\midrule
+high EPA & 0.656 $\pm$ 0.409 & 0.719 $\pm$ 0.223 & 0.781 $\pm$ 0.379 & 0.594 $\pm$ 0.368 \\
+middle EPA & 0.844 $\pm$ 0.205 & 0.625 $\pm$ 0.342 & 0.938 $\pm$ 0.062 & 0.688 $\pm$ 0.410 \\
+low EPA & 0.281 $\pm$ 0.311 & 0.344 $\pm$ 0.389 & 0.531 $\pm$ 0.285 & 0.750 $\pm$ 0.177 \\
+\bottomrule
+\caption{Poisoning difficulty prediction using EPA on TinyImageNet. We select 4 highest, 4 middle, and 4 lowest EPA targets from $y_t=0$, and evaluate GM and BP attacks toward $y_p=1,2$ under attack budget $\epsilon=0.05\%$.}
+\label{tab:tiny_epa_full}
+\end{tabular}
+\end{table}

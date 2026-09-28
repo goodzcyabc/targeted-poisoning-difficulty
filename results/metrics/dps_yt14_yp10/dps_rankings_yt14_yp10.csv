@@ -1,0 +1,51 @@
+yt,yt_wnid,yt_name,yp,yp_wnid,yp_name,val_ds_index,rel_path,dps,mode_label_excluding_yp,mode_wnid_excluding_yp,mode_name_excluding_yp,mode_count_excluding_yp,M,N
+14,n01917289,brain coral,10,n01784675,centipede,53,val/images/val_53.JPEG,0.1875000000,14,n01917289,brain coral,60,8,40
+14,n01917289,brain coral,10,n01784675,centipede,162,val/images/val_162.JPEG,0.8625000000,14,n01917289,brain coral,276,8,40
+14,n01917289,brain coral,10,n01784675,centipede,224,val/images/val_224.JPEG,0.5812500000,196,n09256479,coral reef,186,8,40
+14,n01917289,brain coral,10,n01784675,centipede,282,val/images/val_282.JPEG,0.6031250000,14,n01917289,brain coral,193,8,40
+14,n01917289,brain coral,10,n01784675,centipede,315,val/images/val_315.JPEG,0.2500000000,15,n01944390,snail,80,8,40
+14,n01917289,brain coral,10,n01784675,centipede,346,val/images/val_346.JPEG,0.2187500000,14,n01917289,brain coral,70,8,40
+14,n01917289,brain coral,10,n01784675,centipede,470,val/images/val_470.JPEG,0.1437500000,191,n07873807,"pizza, pizza pie",46,8,40
+14,n01917289,brain coral,10,n01784675,centipede,614,val/images/val_614.JPEG,0.4500000000,14,n01917289,brain coral,144,8,40
+14,n01917289,brain coral,10,n01784675,centipede,709,val/images/val_709.JPEG,0.3562500000,14,n01917289,brain coral,114,8,40
+14,n01917289,brain coral,10,n01784675,centipede,977,val/images/val_977.JPEG,0.7375000000,14,n01917289,brain coral,236,8,40
+14,n01917289,brain coral,10,n01784675,centipede,1079,val/images/val_1079.JPEG,0.5062500000,88,n02999410,chain,162,8,40
+14,n01917289,brain coral,10,n01784675,centipede,1218,val/images/val_1218.JPEG,0.7968750000,14,n01917289,brain coral,255,8,40
+14,n01917289,brain coral,10,n01784675,centipede,1308,val/images/val_1308.JPEG,0.7937500000,14,n01917289,brain coral,254,8,40
+14,n01917289,brain coral,10,n01784675,centipede,1337,val/images/val_1337.JPEG,0.6562500000,14,n01917289,brain coral,210,8,40
+14,n01917289,brain coral,10,n01784675,centipede,1697,val/images/val_1697.JPEG,0.7437500000,14,n01917289,brain coral,238,8,40
+14,n01917289,brain coral,10,n01784675,centipede,2190,val/images/val_2190.JPEG,0.8843750000,14,n01917289,brain coral,283,8,40
+14,n01917289,brain coral,10,n01784675,centipede,2204,val/images/val_2204.JPEG,0.5875000000,196,n09256479,coral reef,188,8,40
+14,n01917289,brain coral,10,n01784675,centipede,2244,val/images/val_2244.JPEG,0.2218750000,17,n01950731,"sea slug, nudibranch",71,8,40
+14,n01917289,brain coral,10,n01784675,centipede,2626,val/images/val_2626.JPEG,0.8187500000,196,n09256479,coral reef,262,8,40
+14,n01917289,brain coral,10,n01784675,centipede,2645,val/images/val_2645.JPEG,0.7000000000,14,n01917289,brain coral,224,8,40
+14,n01917289,brain coral,10,n01784675,centipede,2716,val/images/val_2716.JPEG,0.3187500000,2,n01641577,"bullfrog, Rana catesbeiana",102,8,40
+14,n01917289,brain coral,10,n01784675,centipede,2814,val/images/val_2814.JPEG,0.5156250000,6,n01768244,trilobite,165,8,40
+14,n01917289,brain coral,10,n01784675,centipede,2880,val/images/val_2880.JPEG,0.4906250000,12,n01882714,"koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus",157,8,40
+14,n01917289,brain coral,10,n01784675,centipede,2950,val/images/val_2950.JPEG,0.6156250000,14,n01917289,brain coral,197,8,40
+14,n01917289,brain coral,10,n01784675,centipede,3187,val/images/val_3187.JPEG,0.3406250000,196,n09256479,coral reef,109,8,40
+14,n01917289,brain coral,10,n01784675,centipede,3359,val/images/val_3359.JPEG,0.4687500000,196,n09256479,coral reef,150,8,40
+14,n01917289,brain coral,10,n01784675,centipede,4150,val/images/val_4150.JPEG,0.3500000000,14,n01917289,brain coral,112,8,40
+14,n01917289,brain coral,10,n01784675,centipede,4695,val/images/val_4695.JPEG,0.4781250000,14,n01917289,brain coral,153,8,40
+14,n01917289,brain coral,10,n01784675,centipede,5016,val/images/val_5016.JPEG,0.3312500000,14,n01917289,brain coral,106,8,40
+14,n01917289,brain coral,10,n01784675,centipede,5592,val/images/val_5592.JPEG,0.7781250000,14,n01917289,brain coral,249,8,40
+14,n01917289,brain coral,10,n01784675,centipede,5708,val/images/val_5708.JPEG,0.8062500000,14,n01917289,brain coral,258,8,40
+14,n01917289,brain coral,10,n01784675,centipede,5851,val/images/val_5851.JPEG,0.6718750000,14,n01917289,brain coral,215,8,40
+14,n01917289,brain coral,10,n01784675,centipede,5954,val/images/val_5954.JPEG,0.4625000000,14,n01917289,brain coral,148,8,40
+14,n01917289,brain coral,10,n01784675,centipede,7194,val/images/val_7194.JPEG,0.8437500000,14,n01917289,brain coral,270,8,40
+14,n01917289,brain coral,10,n01784675,centipede,7426,val/images/val_7426.JPEG,0.5531250000,14,n01917289,brain coral,177,8,40
+14,n01917289,brain coral,10,n01784675,centipede,7458,val/images/val_7458.JPEG,0.2187500000,12,n01882714,"koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus",70,8,40
+14,n01917289,brain coral,10,n01784675,centipede,7639,val/images/val_7639.JPEG,0.2750000000,14,n01917289,brain coral,88,8,40
+14,n01917289,brain coral,10,n01784675,centipede,7719,val/images/val_7719.JPEG,0.4062500000,199,n12267677,acorn,130,8,40
+14,n01917289,brain coral,10,n01784675,centipede,7940,val/images/val_7940.JPEG,0.3812500000,14,n01917289,brain coral,122,8,40
+14,n01917289,brain coral,10,n01784675,centipede,8712,val/images/val_8712.JPEG,0.5500000000,14,n01917289,brain coral,176,8,40
+14,n01917289,brain coral,10,n01784675,centipede,8950,val/images/val_8950.JPEG,0.7312500000,14,n01917289,brain coral,234,8,40
+14,n01917289,brain coral,10,n01784675,centipede,8969,val/images/val_8969.JPEG,0.8343750000,14,n01917289,brain coral,267,8,40
+14,n01917289,brain coral,10,n01784675,centipede,9109,val/images/val_9109.JPEG,0.7031250000,14,n01917289,brain coral,225,8,40
+14,n01917289,brain coral,10,n01784675,centipede,9122,val/images/val_9122.JPEG,0.7875000000,14,n01917289,brain coral,252,8,40
+14,n01917289,brain coral,10,n01784675,centipede,9357,val/images/val_9357.JPEG,0.4343750000,14,n01917289,brain coral,139,8,40
+14,n01917289,brain coral,10,n01784675,centipede,9409,val/images/val_9409.JPEG,0.8468750000,14,n01917289,brain coral,271,8,40
+14,n01917289,brain coral,10,n01784675,centipede,9644,val/images/val_9644.JPEG,0.6968750000,196,n09256479,coral reef,223,8,40
+14,n01917289,brain coral,10,n01784675,centipede,9656,val/images/val_9656.JPEG,0.2687500000,78,n02892201,"brass, memorial tablet, plaque",86,8,40
+14,n01917289,brain coral,10,n01784675,centipede,9775,val/images/val_9775.JPEG,0.7937500000,14,n01917289,brain coral,254,8,40
+14,n01917289,brain coral,10,n01784675,centipede,9853,val/images/val_9853.JPEG,0.8656250000,14,n01917289,brain coral,277,8,40

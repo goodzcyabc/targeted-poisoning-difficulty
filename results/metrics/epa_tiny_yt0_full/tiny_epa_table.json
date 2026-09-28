@@ -1,0 +1,110 @@
+[
+  {
+    "group": "high",
+    "yp": 1,
+    "method": "GM",
+    "num_samples": 4,
+    "mean_asr": 0.65625,
+    "std_asr": 0.40864677595693816,
+    "display": "0.656 $\\pm$ 0.409"
+  },
+  {
+    "group": "high",
+    "yp": 1,
+    "method": "BP",
+    "num_samples": 4,
+    "mean_asr": 0.71875,
+    "std_asr": 0.22316963839196408,
+    "display": "0.719 $\\pm$ 0.223"
+  },
+  {
+    "group": "high",
+    "yp": 2,
+    "method": "GM",
+    "num_samples": 4,
+    "mean_asr": 0.78125,
+    "std_asr": 0.3788861141556919,
+    "display": "0.781 $\\pm$ 0.379"
+  },
+  {
+    "group": "high",
+    "yp": 2,
+    "method": "BP",
+    "num_samples": 4,
+    "mean_asr": 0.59375,
+    "std_asr": 0.36843206632973735,
+    "display": "0.594 $\\pm$ 0.368"
+  },
+  {
+    "group": "middle",
+    "yp": 1,
+    "method": "GM",
+    "num_samples": 4,
+    "mean_asr": 0.84375,
+    "std_asr": 0.2049199538844375,
+    "display": "0.844 $\\pm$ 0.205"
+  },
+  {
+    "group": "middle",
+    "yp": 1,
+    "method": "BP",
+    "num_samples": 4,
+    "mean_asr": 0.625,
+    "std_asr": 0.3423265984407288,
+    "display": "0.625 $\\pm$ 0.342"
+  },
+  {
+    "group": "middle",
+    "yp": 2,
+    "method": "GM",
+    "num_samples": 4,
+    "mean_asr": 0.9375,
+    "std_asr": 0.0625,
+    "display": "0.938 $\\pm$ 0.062"
+  },
+  {
+    "group": "middle",
+    "yp": 2,
+    "method": "BP",
+    "num_samples": 4,
+    "mean_asr": 0.6875,
+    "std_asr": 0.409839907768875,
+    "display": "0.688 $\\pm$ 0.410"
+  },
+  {
+    "group": "low",
+    "yp": 1,
+    "method": "GM",
+    "num_samples": 4,
+    "mean_asr": 0.28125,
+    "std_asr": 0.31093357409581873,
+    "display": "0.281 $\\pm$ 0.311"
+  },
+  {
+    "group": "low",
+    "yp": 1,
+    "method": "BP",
+    "num_samples": 4,
+    "mean_asr": 0.34375,
+    "std_asr": 0.3890593624371479,
+    "display": "0.344 $\\pm$ 0.389"
+  },
+  {
+    "group": "low",
+    "yp": 2,
+    "method": "GM",
+    "num_samples": 4,
+    "mean_asr": 0.53125,
+    "std_asr": 0.28470104934825935,
+    "display": "0.531 $\\pm$ 0.285"
+  },
+  {
+    "group": "low",
+    "yp": 2,
+    "method": "BP",
+    "num_samples": 4,
+    "mean_asr": 0.75,
+    "std_asr": 0.1767766952966369,
+    "display": "0.750 $\\pm$ 0.177"
+  }
+]

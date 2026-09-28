@@ -1,0 +1,34 @@
+[
+  {
+    "yt": 0,
+    "test_ds_index": 7632,
+    "epa": 0.0,
+    "correct": 0,
+    "M": 8,
+    "N": 40
+  },
+  {
+    "yt": 0,
+    "test_ds_index": 1898,
+    "epa": 0.003125,
+    "correct": 1,
+    "M": 8,
+    "N": 40
+  },
+  {
+    "yt": 0,
+    "test_ds_index": 2532,
+    "epa": 0.003125,
+    "correct": 1,
+    "M": 8,
+    "N": 40
+  },
+  {
+    "yt": 0,
+    "test_ds_index": 3550,
+    "epa": 0.003125,
+    "correct": 1,
+    "M": 8,
+    "N": 40
+  }
+]

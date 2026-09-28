@@ -1,0 +1,14 @@
+[
+  {
+    "attack": "GM",
+    "corr_asr_epa": -0.1438493281539871,
+    "corr_asr_dps": -0.09468908282329953,
+    "num_points": 200
+  },
+  {
+    "attack": "BP",
+    "corr_asr_epa": -0.5114120153333039,
+    "corr_asr_dps": -0.3898013542181878,
+    "num_points": 200
+  }
+]

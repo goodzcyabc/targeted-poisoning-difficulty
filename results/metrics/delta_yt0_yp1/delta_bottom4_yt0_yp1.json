@@ -1,0 +1,62 @@
+[
+  {
+    "yt": 0,
+    "yt_wnid": "n01443537",
+    "yt_name": "goldfish, Carassius auratus",
+    "yp": 1,
+    "yp_wnid": "n01629819",
+    "yp_name": "European fire salamander, Salamandra salamandra",
+    "val_ds_index": 2253,
+    "rel_path": "val/images/val_2253.JPEG",
+    "delta": 0.001220703125,
+    "eta_star": 0.001220703125,
+    "pred_before": 63,
+    "pred_after": 1,
+    "g_norm": 9.71757984161377
+  },
+  {
+    "yt": 0,
+    "yt_wnid": "n01443537",
+    "yt_name": "goldfish, Carassius auratus",
+    "yp": 1,
+    "yp_wnid": "n01629819",
+    "yp_name": "European fire salamander, Salamandra salamandra",
+    "val_ds_index": 3609,
+    "rel_path": "val/images/val_3609.JPEG",
+    "delta": 0.00146484375,
+    "eta_star": 0.00146484375,
+    "pred_before": 127,
+    "pred_after": 1,
+    "g_norm": 10.150694847106934
+  },
+  {
+    "yt": 0,
+    "yt_wnid": "n01443537",
+    "yt_name": "goldfish, Carassius auratus",
+    "yp": 1,
+    "yp_wnid": "n01629819",
+    "yp_name": "European fire salamander, Salamandra salamandra",
+    "val_ds_index": 9215,
+    "rel_path": "val/images/val_9215.JPEG",
+    "delta": 0.00152587890625,
+    "eta_star": 0.00152587890625,
+    "pred_before": 127,
+    "pred_after": 1,
+    "g_norm": 8.912863731384277
+  },
+  {
+    "yt": 0,
+    "yt_wnid": "n01443537",
+    "yt_name": "goldfish, Carassius auratus",
+    "yp": 1,
+    "yp_wnid": "n01629819",
+    "yp_name": "European fire salamander, Salamandra salamandra",
+    "val_ds_index": 2046,
+    "rel_path": "val/images/val_2046.JPEG",
+    "delta": 0.0015869140625,
+    "eta_star": 0.0015869140625,
+    "pred_before": 122,
+    "pred_after": 1,
+    "g_norm": 8.443852424621582
+  }
+]

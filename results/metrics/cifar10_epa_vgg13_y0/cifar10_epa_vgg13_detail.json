@@ -1,0 +1,386 @@
+[
+  {
+    "group": "high",
+    "yp": 1,
+    "method": "GM",
+    "poisonkey": "0-1-9256",
+    "epa": 0.959375,
+    "ASR": 0.25
+  },
+  {
+    "group": "high",
+    "yp": 1,
+    "method": "BP",
+    "poisonkey": "0-1-9256",
+    "epa": 0.959375,
+    "ASR": 0.0
+  },
+  {
+    "group": "high",
+    "yp": 2,
+    "method": "GM",
+    "poisonkey": "0-2-9256",
+    "epa": 0.959375,
+    "ASR": 0.625
+  },
+  {
+    "group": "high",
+    "yp": 2,
+    "method": "BP",
+    "poisonkey": "0-2-9256",
+    "epa": 0.959375,
+    "ASR": 0.0
+  },
+  {
+    "group": "high",
+    "yp": 1,
+    "method": "GM",
+    "poisonkey": "0-1-8795",
+    "epa": 0.9625,
+    "ASR": 0.0
+  },
+  {
+    "group": "high",
+    "yp": 1,
+    "method": "BP",
+    "poisonkey": "0-1-8795",
+    "epa": 0.9625,
+    "ASR": 0.0
+  },
+  {
+    "group": "high",
+    "yp": 2,
+    "method": "GM",
+    "poisonkey": "0-2-8795",
+    "epa": 0.9625,
+    "ASR": 0.25
+  },
+  {
+    "group": "high",
+    "yp": 2,
+    "method": "BP",
+    "poisonkey": "0-2-8795",
+    "epa": 0.9625,
+    "ASR": 0.0
+  },
+  {
+    "group": "high",
+    "yp": 1,
+    "method": "GM",
+    "poisonkey": "0-1-9565",
+    "epa": 0.9625,
+    "ASR": 0.125
+  },
+  {
+    "group": "high",
+    "yp": 1,
+    "method": "BP",
+    "poisonkey": "0-1-9565",
+    "epa": 0.9625,
+    "ASR": 0.0
+  },
+  {
+    "group": "high",
+    "yp": 2,
+    "method": "GM",
+    "poisonkey": "0-2-9565",
+    "epa": 0.9625,
+    "ASR": 0.0
+  },
+  {
+    "group": "high",
+    "yp": 2,
+    "method": "BP",
+    "poisonkey": "0-2-9565",
+    "epa": 0.9625,
+    "ASR": 0.0
+  },
+  {
+    "group": "high",
+    "yp": 1,
+    "method": "GM",
+    "poisonkey": "0-1-235",
+    "epa": 0.965625,
+    "ASR": 0.0
+  },
+  {
+    "group": "high",
+    "yp": 1,
+    "method": "BP",
+    "poisonkey": "0-1-235",
+    "epa": 0.965625,
+    "ASR": 0.0
+  },
+  {
+    "group": "high",
+    "yp": 2,
+    "method": "GM",
+    "poisonkey": "0-2-235",
+    "epa": 0.965625,
+    "ASR": 0.0
+  },
+  {
+    "group": "high",
+    "yp": 2,
+    "method": "BP",
+    "poisonkey": "0-2-235",
+    "epa": 0.965625,
+    "ASR": 0.0
+  },
+  {
+    "group": "middle",
+    "yp": 1,
+    "method": "GM",
+    "poisonkey": "0-1-4474",
+    "epa": 0.834375,
+    "ASR": 1.0
+  },
+  {
+    "group": "middle",
+    "yp": 1,
+    "method": "BP",
+    "poisonkey": "0-1-4474",
+    "epa": 0.834375,
+    "ASR": 0.125
+  },
+  {
+    "group": "middle",
+    "yp": 2,
+    "method": "GM",
+    "poisonkey": "0-2-4474",
+    "epa": 0.834375,
+    "ASR": 1.0
+  },
+  {
+    "group": "middle",
+    "yp": 2,
+    "method": "BP",
+    "poisonkey": "0-2-4474",
+    "epa": 0.834375,
+    "ASR": 0.0
+  },
+  {
+    "group": "middle",
+    "yp": 1,
+    "method": "GM",
+    "poisonkey": "0-1-6128",
+    "epa": 0.834375,
+    "ASR": 1.0
+  },
+  {
+    "group": "middle",
+    "yp": 1,
+    "method": "BP",
+    "poisonkey": "0-1-6128",
+    "epa": 0.834375,
+    "ASR": 0.0
+  },
+  {
+    "group": "middle",
+    "yp": 2,
+    "method": "GM",
+    "poisonkey": "0-2-6128",
+    "epa": 0.834375,
+    "ASR": 0.125
+  },
+  {
+    "group": "middle",
+    "yp": 2,
+    "method": "BP",
+    "poisonkey": "0-2-6128",
+    "epa": 0.834375,
+    "ASR": 0.0
+  },
+  {
+    "group": "middle",
+    "yp": 1,
+    "method": "GM",
+    "poisonkey": "0-1-6418",
+    "epa": 0.834375,
+    "ASR": 1.0
+  },
+  {
+    "group": "middle",
+    "yp": 1,
+    "method": "BP",
+    "poisonkey": "0-1-6418",
+    "epa": 0.834375,
+    "ASR": 0.0
+  },
+  {
+    "group": "middle",
+    "yp": 2,
+    "method": "GM",
+    "poisonkey": "0-2-6418",
+    "epa": 0.834375,
+    "ASR": 1.0
+  },
+  {
+    "group": "middle",
+    "yp": 2,
+    "method": "BP",
+    "poisonkey": "0-2-6418",
+    "epa": 0.834375,
+    "ASR": 0.0
+  },
+  {
+    "group": "middle",
+    "yp": 1,
+    "method": "GM",
+    "poisonkey": "0-1-8694",
+    "epa": 0.834375,
+    "ASR": 0.875
+  },
+  {
+    "group": "middle",
+    "yp": 1,
+    "method": "BP",
+    "poisonkey": "0-1-8694",
+    "epa": 0.834375,
+    "ASR": 0.0
+  },
+  {
+    "group": "middle",
+    "yp": 2,
+    "method": "GM",
+    "poisonkey": "0-2-8694",
+    "epa": 0.834375,
+    "ASR": 1.0
+  },
+  {
+    "group": "middle",
+    "yp": 2,
+    "method": "BP",
+    "poisonkey": "0-2-8694",
+    "epa": 0.834375,
+    "ASR": 0.0
+  },
+  {
+    "group": "low",
+    "yp": 1,
+    "method": "GM",
+    "poisonkey": "0-1-7632",
+    "epa": 0.0,
+    "ASR": 1.0
+  },
+  {
+    "group": "low",
+    "yp": 1,
+    "method": "BP",
+    "poisonkey": "0-1-7632",
+    "epa": 0.0,
+    "ASR": 0.875
+  },
+  {
+    "group": "low",
+    "yp": 2,
+    "method": "GM",
+    "poisonkey": "0-2-7632",
+    "epa": 0.0,
+    "ASR": 1.0
+  },
+  {
+    "group": "low",
+    "yp": 2,
+    "method": "BP",
+    "poisonkey": "0-2-7632",
+    "epa": 0.0,
+    "ASR": 1.0
+  },
+  {
+    "group": "low",
+    "yp": 1,
+    "method": "GM",
+    "poisonkey": "0-1-1898",
+    "epa": 0.003125,
+    "ASR": 1.0
+  },
+  {
+    "group": "low",
+    "yp": 1,
+    "method": "BP",
+    "poisonkey": "0-1-1898",
+    "epa": 0.003125,
+    "ASR": 0.875
+  },
+  {
+    "group": "low",
+    "yp": 2,
+    "method": "GM",
+    "poisonkey": "0-2-1898",
+    "epa": 0.003125,
+    "ASR": 1.0
+  },
+  {
+    "group": "low",
+    "yp": 2,
+    "method": "BP",
+    "poisonkey": "0-2-1898",
+    "epa": 0.003125,
+    "ASR": 0.875
+  },
+  {
+    "group": "low",
+    "yp": 1,
+    "method": "GM",
+    "poisonkey": "0-1-2532",
+    "epa": 0.003125,
+    "ASR": 1.0
+  },
+  {
+    "group": "low",
+    "yp": 1,
+    "method": "BP",
+    "poisonkey": "0-1-2532",
+    "epa": 0.003125,
+    "ASR": 1.0
+  },
+  {
+    "group": "low",
+    "yp": 2,
+    "method": "GM",
+    "poisonkey": "0-2-2532",
+    "epa": 0.003125,
+    "ASR": 1.0
+  },
+  {
+    "group": "low",
+    "yp": 2,
+    "method": "BP",
+    "poisonkey": "0-2-2532",
+    "epa": 0.003125,
+    "ASR": 0.0
+  },
+  {
+    "group": "low",
+    "yp": 1,
+    "method": "GM",
+    "poisonkey": "0-1-3550",
+    "epa": 0.003125,
+    "ASR": 1.0
+  },
+  {
+    "group": "low",
+    "yp": 1,
+    "method": "BP",
+    "poisonkey": "0-1-3550",
+    "epa": 0.003125,
+    "ASR": 0.0
+  },
+  {
+    "group": "low",
+    "yp": 2,
+    "method": "GM",
+    "poisonkey": "0-2-3550",
+    "epa": 0.003125,
+    "ASR": 1.0
+  },
+  {
+    "group": "low",
+    "yp": 2,
+    "method": "BP",
+    "poisonkey": "0-2-3550",
+    "epa": 0.003125,
+    "ASR": 0.75
+  }
+]

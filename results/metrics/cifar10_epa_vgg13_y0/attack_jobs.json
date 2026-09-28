@@ -1,0 +1,482 @@
+[
+  {
+    "yt": 0,
+    "yp": 1,
+    "target_test_idx": 9256,
+    "epa": 0.959375,
+    "group": "high",
+    "method": "GM",
+    "recipe": "gradient-matching",
+    "poisonkey": "0-1-9256"
+  },
+  {
+    "yt": 0,
+    "yp": 1,
+    "target_test_idx": 9256,
+    "epa": 0.959375,
+    "group": "high",
+    "method": "BP",
+    "recipe": "bullseye",
+    "poisonkey": "0-1-9256"
+  },
+  {
+    "yt": 0,
+    "yp": 2,
+    "target_test_idx": 9256,
+    "epa": 0.959375,
+    "group": "high",
+    "method": "GM",
+    "recipe": "gradient-matching",
+    "poisonkey": "0-2-9256"
+  },
+  {
+    "yt": 0,
+    "yp": 2,
+    "target_test_idx": 9256,
+    "epa": 0.959375,
+    "group": "high",
+    "method": "BP",
+    "recipe": "bullseye",
+    "poisonkey": "0-2-9256"
+  },
+  {
+    "yt": 0,
+    "yp": 1,
+    "target_test_idx": 8795,
+    "epa": 0.9625,
+    "group": "high",
+    "method": "GM",
+    "recipe": "gradient-matching",
+    "poisonkey": "0-1-8795"
+  },
+  {
+    "yt": 0,
+    "yp": 1,
+    "target_test_idx": 8795,
+    "epa": 0.9625,
+    "group": "high",
+    "method": "BP",
+    "recipe": "bullseye",
+    "poisonkey": "0-1-8795"
+  },
+  {
+    "yt": 0,
+    "yp": 2,
+    "target_test_idx": 8795,
+    "epa": 0.9625,
+    "group": "high",
+    "method": "GM",
+    "recipe": "gradient-matching",
+    "poisonkey": "0-2-8795"
+  },
+  {
+    "yt": 0,
+    "yp": 2,
+    "target_test_idx": 8795,
+    "epa": 0.9625,
+    "group": "high",
+    "method": "BP",
+    "recipe": "bullseye",
+    "poisonkey": "0-2-8795"
+  },
+  {
+    "yt": 0,
+    "yp": 1,
+    "target_test_idx": 9565,
+    "epa": 0.9625,
+    "group": "high",
+    "method": "GM",
+    "recipe": "gradient-matching",
+    "poisonkey": "0-1-9565"
+  },
+  {
+    "yt": 0,
+    "yp": 1,
+    "target_test_idx": 9565,
+    "epa": 0.9625,
+    "group": "high",
+    "method": "BP",
+    "recipe": "bullseye",
+    "poisonkey": "0-1-9565"
+  },
+  {
+    "yt": 0,
+    "yp": 2,
+    "target_test_idx": 9565,
+    "epa": 0.9625,
+    "group": "high",
+    "method": "GM",
+    "recipe": "gradient-matching",
+    "poisonkey": "0-2-9565"
+  },
+  {
+    "yt": 0,
+    "yp": 2,
+    "target_test_idx": 9565,
+    "epa": 0.9625,
+    "group": "high",
+    "method": "BP",
+    "recipe": "bullseye",
+    "poisonkey": "0-2-9565"
+  },
+  {
+    "yt": 0,
+    "yp": 1,
+    "target_test_idx": 235,
+    "epa": 0.965625,
+    "group": "high",
+    "method": "GM",
+    "recipe": "gradient-matching",
+    "poisonkey": "0-1-235"
+  },
+  {
+    "yt": 0,
+    "yp": 1,
+    "target_test_idx": 235,
+    "epa": 0.965625,
+    "group": "high",
+    "method": "BP",
+    "recipe": "bullseye",
+    "poisonkey": "0-1-235"
+  },
+  {
+    "yt": 0,
+    "yp": 2,
+    "target_test_idx": 235,
+    "epa": 0.965625,
+    "group": "high",
+    "method": "GM",
+    "recipe": "gradient-matching",
+    "poisonkey": "0-2-235"
+  },
+  {
+    "yt": 0,
+    "yp": 2,
+    "target_test_idx": 235,
+    "epa": 0.965625,
+    "group": "high",
+    "method": "BP",
+    "recipe": "bullseye",
+    "poisonkey": "0-2-235"
+  },
+  {
+    "yt": 0,
+    "yp": 1,
+    "target_test_idx": 4474,
+    "epa": 0.834375,
+    "group": "middle",
+    "method": "GM",
+    "recipe": "gradient-matching",
+    "poisonkey": "0-1-4474"
+  },
+  {
+    "yt": 0,
+    "yp": 1,
+    "target_test_idx": 4474,
+    "epa": 0.834375,
+    "group": "middle",
+    "method": "BP",
+    "recipe": "bullseye",
+    "poisonkey": "0-1-4474"
+  },
+  {
+    "yt": 0,
+    "yp": 2,
+    "target_test_idx": 4474,
+    "epa": 0.834375,
+    "group": "middle",
+    "method": "GM",
+    "recipe": "gradient-matching",
+    "poisonkey": "0-2-4474"
+  },
+  {
+    "yt": 0,
+    "yp": 2,
+    "target_test_idx": 4474,
+    "epa": 0.834375,
+    "group": "middle",
+    "method": "BP",
+    "recipe": "bullseye",
+    "poisonkey": "0-2-4474"
+  },
+  {
+    "yt": 0,
+    "yp": 1,
+    "target_test_idx": 6128,
+    "epa": 0.834375,
+    "group": "middle",
+    "method": "GM",
+    "recipe": "gradient-matching",
+    "poisonkey": "0-1-6128"
+  },
+  {
+    "yt": 0,
+    "yp": 1,
+    "target_test_idx": 6128,
+    "epa": 0.834375,
+    "group": "middle",
+    "method": "BP",
+    "recipe": "bullseye",
+    "poisonkey": "0-1-6128"
+  },
+  {
+    "yt": 0,
+    "yp": 2,
+    "target_test_idx": 6128,
+    "epa": 0.834375,
+    "group": "middle",
+    "method": "GM",
+    "recipe": "gradient-matching",
+    "poisonkey": "0-2-6128"
+  },
+  {
+    "yt": 0,
+    "yp": 2,
+    "target_test_idx": 6128,
+    "epa": 0.834375,
+    "group": "middle",
+    "method": "BP",
+    "recipe": "bullseye",
+    "poisonkey": "0-2-6128"
+  },
+  {
+    "yt": 0,
+    "yp": 1,
+    "target_test_idx": 6418,
+    "epa": 0.834375,
+    "group": "middle",
+    "method": "GM",
+    "recipe": "gradient-matching",
+    "poisonkey": "0-1-6418"
+  },
+  {
+    "yt": 0,
+    "yp": 1,
+    "target_test_idx": 6418,
+    "epa": 0.834375,
+    "group": "middle",
+    "method": "BP",
+    "recipe": "bullseye",
+    "poisonkey": "0-1-6418"
+  },
+  {
+    "yt": 0,
+    "yp": 2,
+    "target_test_idx": 6418,
+    "epa": 0.834375,
+    "group": "middle",
+    "method": "GM",
+    "recipe": "gradient-matching",
+    "poisonkey": "0-2-6418"
+  },
+  {
+    "yt": 0,
+    "yp": 2,
+    "target_test_idx": 6418,
+    "epa": 0.834375,
+    "group": "middle",
+    "method": "BP",
+    "recipe": "bullseye",
+    "poisonkey": "0-2-6418"
+  },
+  {
+    "yt": 0,
+    "yp": 1,
+    "target_test_idx": 8694,
+    "epa": 0.834375,
+    "group": "middle",
+    "method": "GM",
+    "recipe": "gradient-matching",
+    "poisonkey": "0-1-8694"
+  },
+  {
+    "yt": 0,
+    "yp": 1,
+    "target_test_idx": 8694,
+    "epa": 0.834375,
+    "group": "middle",
+    "method": "BP",
+    "recipe": "bullseye",
+    "poisonkey": "0-1-8694"
+  },
+  {
+    "yt": 0,
+    "yp": 2,
+    "target_test_idx": 8694,
+    "epa": 0.834375,
+    "group": "middle",
+    "method": "GM",
+    "recipe": "gradient-matching",
+    "poisonkey": "0-2-8694"
+  },
+  {
+    "yt": 0,
+    "yp": 2,
+    "target_test_idx": 8694,
+    "epa": 0.834375,
+    "group": "middle",
+    "method": "BP",
+    "recipe": "bullseye",
+    "poisonkey": "0-2-8694"
+  },
+  {
+    "yt": 0,
+    "yp": 1,
+    "target_test_idx": 7632,
+    "epa": 0.0,
+    "group": "low",
+    "method": "GM",
+    "recipe": "gradient-matching",
+    "poisonkey": "0-1-7632"
+  },
+  {
+    "yt": 0,
+    "yp": 1,
+    "target_test_idx": 7632,
+    "epa": 0.0,
+    "group": "low",
+    "method": "BP",
+    "recipe": "bullseye",
+    "poisonkey": "0-1-7632"
+  },
+  {
+    "yt": 0,
+    "yp": 2,
+    "target_test_idx": 7632,
+    "epa": 0.0,
+    "group": "low",
+    "method": "GM",
+    "recipe": "gradient-matching",
+    "poisonkey": "0-2-7632"
+  },
+  {
+    "yt": 0,
+    "yp": 2,
+    "target_test_idx": 7632,
+    "epa": 0.0,
+    "group": "low",
+    "method": "BP",
+    "recipe": "bullseye",
+    "poisonkey": "0-2-7632"
+  },
+  {
+    "yt": 0,
+    "yp": 1,
+    "target_test_idx": 1898,
+    "epa": 0.003125,
+    "group": "low",
+    "method": "GM",
+    "recipe": "gradient-matching",
+    "poisonkey": "0-1-1898"
+  },
+  {
+    "yt": 0,
+    "yp": 1,
+    "target_test_idx": 1898,
+    "epa": 0.003125,
+    "group": "low",
+    "method": "BP",
+    "recipe": "bullseye",
+    "poisonkey": "0-1-1898"
+  },
+  {
+    "yt": 0,
+    "yp": 2,
+    "target_test_idx": 1898,
+    "epa": 0.003125,
+    "group": "low",
+    "method": "GM",
+    "recipe": "gradient-matching",
+    "poisonkey": "0-2-1898"
+  },
+  {
+    "yt": 0,
+    "yp": 2,
+    "target_test_idx": 1898,
+    "epa": 0.003125,
+    "group": "low",
+    "method": "BP",
+    "recipe": "bullseye",
+    "poisonkey": "0-2-1898"
+  },
+  {
+    "yt": 0,
+    "yp": 1,
+    "target_test_idx": 2532,
+    "epa": 0.003125,
+    "group": "low",
+    "method": "GM",
+    "recipe": "gradient-matching",
+    "poisonkey": "0-1-2532"
+  },
+  {
+    "yt": 0,
+    "yp": 1,
+    "target_test_idx": 2532,
+    "epa": 0.003125,
+    "group": "low",
+    "method": "BP",
+    "recipe": "bullseye",
+    "poisonkey": "0-1-2532"
+  },
+  {
+    "yt": 0,
+    "yp": 2,
+    "target_test_idx": 2532,
+    "epa": 0.003125,
+    "group": "low",
+    "method": "GM",
+    "recipe": "gradient-matching",
+    "poisonkey": "0-2-2532"
+  },
+  {
+    "yt": 0,
+    "yp": 2,
+    "target_test_idx": 2532,
+    "epa": 0.003125,
+    "group": "low",
+    "method": "BP",
+    "recipe": "bullseye",
+    "poisonkey": "0-2-2532"
+  },
+  {
+    "yt": 0,
+    "yp": 1,
+    "target_test_idx": 3550,
+    "epa": 0.003125,
+    "group": "low",
+    "method": "GM",
+    "recipe": "gradient-matching",
+    "poisonkey": "0-1-3550"
+  },
+  {
+    "yt": 0,
+    "yp": 1,
+    "target_test_idx": 3550,
+    "epa": 0.003125,
+    "group": "low",
+    "method": "BP",
+    "recipe": "bullseye",
+    "poisonkey": "0-1-3550"
+  },
+  {
+    "yt": 0,
+    "yp": 2,
+    "target_test_idx": 3550,
+    "epa": 0.003125,
+    "group": "low",
+    "method": "GM",
+    "recipe": "gradient-matching",
+    "poisonkey": "0-2-3550"
+  },
+  {
+    "yt": 0,
+    "yp": 2,
+    "target_test_idx": 3550,
+    "epa": 0.003125,
+    "group": "low",
+    "method": "BP",
+    "recipe": "bullseye",
+    "poisonkey": "0-2-3550"
+  }
+]

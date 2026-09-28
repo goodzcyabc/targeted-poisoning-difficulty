@@ -1,0 +1,6 @@
+prefix,num_samples,num_dominant_eq_yt,proportion
+Top 20%,200,200,1.000000
+Top 40%,400,400,1.000000
+Top 60%,600,593,0.988333
+Top 80%,800,772,0.965000
+Top 100%,1000,874,0.874000
