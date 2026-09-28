@@ -1,6 +1,6 @@
 # Are Targeted Data Poisoning Attacks as Effective as We Think?
 
-Anonymous code release for the NeurIPS 2026 submission.
+Anonymous code release accompanying the paper submission.
 
 Existing evaluations of **targeted data poisoning** report the *average* attack success rate (ASR) over
 randomly chosen targets, which hides how much difficulty varies from one target to the next. This repository
