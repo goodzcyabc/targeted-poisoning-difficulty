@@ -25,11 +25,12 @@ scripts/      entrypoints: rank targets by a metric, build attack jobs, summariz
 results/      ALL experimental results
   ├── metrics/    per-target metric values and rankings (EPA, DPS, δ, τ)
   └── attacks/    attack outcome tables (ASR) per dataset / model / setting
+third_party/  the public poisoning benchmark we build on, redistributed under its own license
 ```
 
-Everything at the top level besides the above (`learning_module.py`, `poison_test.py`, `models/`,
-`poison_crafting/`, `poison_setups/`, ...) is the evaluation harness from the public poisoning benchmark we
-build on — see `NOTICE.md`.
+Everything outside `third_party/` is ours. Nothing in `metrics/` or `scripts/` imports anything under
+`third_party/`; it is kept because the `benchmark_idx` column in our attack tables is defined against its
+setup lists. See `NOTICE.md`.
 
 ## Quickstart
 
@@ -49,3 +50,8 @@ python scripts/epa_rank_cifar10_resnet18.py --out_dir /tmp/smoke --yt 0 --epochs
 ```
 
 See **`REPRODUCTION.md`** for the command behind each table in the paper.
+
+## License
+
+Our code is MIT-licensed — see `LICENSE`. The redistributed benchmark under `third_party/` keeps its own
+license at `third_party/poisoning-benchmark/LICENSE`. See `NOTICE.md` for what came from where.

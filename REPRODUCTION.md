@@ -89,5 +89,9 @@ Three details worth knowing:
 
 ## Attack evaluation
 
-Attack outcome tables under `results/attacks/` were produced by running the poisons through the benchmark
-harness (`poison_test.py`); each row's ASR is the `target_acc_reinit` column.
+Attack outcome tables under `results/attacks/` were produced with the public **gradient matching**
+("Witches' Brew") framework, which is cited in the paper and is *not* redistributed here; each row's ASR is
+the `target_acc_reinit` column. Because that framework is external, these tables cannot be regenerated from
+this repository alone — they are shipped as the record of the runs behind the paper. The `benchmark_idx`
+column indexes into the benchmark setup lists at
+`third_party/poisoning-benchmark/poison_setups/*.pickle`.
